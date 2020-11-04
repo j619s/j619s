@@ -1,8 +1,11 @@
-### Hi there 👋, Jatin
+### Hi there 👋, I'm Jatin
 #### Design and Development.
 I'm Jatin from India, and I am learning to be a full-stack developer. I really enjoy learning languages and frameworks like Express and React. I also enjoy creating Java applications.
 
-Skills: Java / JS / HTML / CSS/ REACT /Express.js / Node.js
+## Skills and Experience
+* 💻 Java / JS / HTML / CSS / Express.js / Node.js
+* ⚛  REACT
+
 
 - 🔭 I’m currently working on the To-Do list app. 
 - 🌱 I’m currently learning Full Stack Development. 
