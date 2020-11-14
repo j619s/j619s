@@ -6,8 +6,6 @@ I'm Jatin from India, and I am learning to be a full-stack developer. I really e
 * 💻 Java / JS / HTML / CSS / Express.js / Node.js
 * ⚛  REACT
 
-
-- 🔭 I’m currently working on the To-Do list app. 
 - 🌱 I’m currently learning Full Stack Development. 
 
 
