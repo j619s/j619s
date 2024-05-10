@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jatin
 #### Design and Development.
-I'm Jatin from India, and I am learning to be a full-stack developer. I really enjoy learning languages and frameworks like Express and React. I also enjoy creating Java applications.
+I'm Jatin from India, and I am learning to be a full-stack developer. I really enjoy learning languages and frameworks like SpringBoot. I enjoy creating Java applications.
 
 ## Skills and Experience
 * 💻 Java / JS / HTML / CSS / SQL / Spring Boot
